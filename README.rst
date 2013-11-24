@@ -1,3 +1,0 @@
-## Yoland Visualization on openspending
-
-
